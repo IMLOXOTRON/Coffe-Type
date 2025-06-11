@@ -59,4 +59,10 @@ h1 img{
   width: 200px;
 height: 100px;
 }
+h2{
+border:5px solid black;
+  font-size:40px;
+  background-color:white;
+  color: black;
+}
    
